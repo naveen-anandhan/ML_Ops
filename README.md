@@ -10,8 +10,9 @@
 7. git config --global user.name "Naveen"
 8. git config --global user.email "mr.navi8680@gmail.com"
 
-9.  git remote add origin https://github.com/naveen-anandhan/ML_Ops.git  -> repo 
-10. git remote -v
-11. git add README.md
-12. git commit -m "first commit"
-13. git branch -M main
+9.  git branch -M main
+10. git remote add origin https://github.com/naveen-anandhan/ML_Ops.git  -> repo 
+11. git remote -v
+12. git add README.md
+13. git commit -m "first commit"
+14. git push -u origin mail
