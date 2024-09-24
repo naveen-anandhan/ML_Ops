@@ -1,8 +1,8 @@
 # END - TO - END DEPLOYMENT
 
 1. cd Desktop 
-2. mkdir “create folder”
-3. python3 -m venv “newvenv” 
+2. mkdir create folder
+3. python3 -m venv newvenv
 4. source newvenv/bin/activate
 5. git init
 6. touch README.md
