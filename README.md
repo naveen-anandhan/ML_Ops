@@ -21,3 +21,7 @@
 15. git push -u origin main.
 
 16. git pull  -> To get fils from gitrepo
+
+
+setup.py ->
+requirements.txt -> 
