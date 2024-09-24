@@ -14,5 +14,5 @@
 10. git remote add origin https://github.com/naveen-anandhan/ML_Ops.git  -> repo 
 11. git remote -v
 12. git add README.md
-13. git commit -m "first commit"
-14. git push -u origin mail
+13. git commit -m "1-st commit"
+14. git push -u origin main
