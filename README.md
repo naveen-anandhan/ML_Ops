@@ -5,7 +5,7 @@
 3. python3 -m venv newvenv
 4. source newvenv/bin/activate
 5. git init
-6. touch README.md
+6. touch README.md   # Create File
 
 7. git config --global user.name "Naveen"
 8. git config --global user.email "mr.navi8680@gmail.com"
@@ -18,10 +18,12 @@
 12. git add README.md             -> stage
 13. git commit -m "1-st commit"   -> commit - stage name
 14. git pull origin main --rebase -> to ensure the commit are applied on top of the latest commits.
-15. git push -u origin main.
+15. git push -u origin main
 
 16. git pull  -> To get fils from gitrepo
 
 
-setup.py ->
-requirements.txt -> 
+# Good Practice  - Outline
+1.      setup.py              ->   
+2.      requirements.txt      -> 
+3.      scr \ __init__.py     ->
