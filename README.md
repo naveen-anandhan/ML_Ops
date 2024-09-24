@@ -19,3 +19,5 @@
 13. git commit -m "1-st commit"   -> commit - stage name
 14. git pull origin main --rebase -> to ensure the commit are applied on top of the latest commits.
 15. git push -u origin main.
+
+16. git pull  -> To get fils from gitrepo
