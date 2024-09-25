@@ -26,4 +26,20 @@
 # Good Practice  - Outline
 1.      setup.py              ->   
 2.      requirements.txt      -> 
-3.      scr \ __init__.py     ->
+
+3.      scr/
+
+         __init__.py 
+         Loggers.py   -> to log all the execution to track     
+         Exception.py  -> Custome Exception handelling will see 1.what file causing the error and 2.what line causing the error and 3.error!
+         utils.py    -> EG: Save my model into cloud 
+
+            Compoments/
+                __init__.py
+                Data_Ingersion.py  -> Importing data!
+                Data_Transform.py  -> Transformation the Data!
+                Model_Trainer.Py   -> Specifically to Train the model
+            Pipeline/
+                __init__.py
+                Train_Pipline.py
+                Predict_Pipline.py
