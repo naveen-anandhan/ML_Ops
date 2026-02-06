@@ -43,3 +43,9 @@
                 __init__.py
                 Train_Pipline.py
                 Predict_Pipline.py
+4.          git status
+            git add .
+            git commit -m "meaningful message"
+            git pull --rebase
+            git push
+
